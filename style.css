@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+
+.parent{
+    background-color: #FFCD9E;
+    height: 592px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: inter;
+}
+
+.free{
+    width: 344px;
+    height: 61px;
+    top: 479px;
+    left: 180px;
+    font-weight: 500;
+    line-height: 25.6px;
+    font-size: 16px;
+    position: fixed;
+    color: white;
+}
+
+.image{
+    width: 575px;
+    height: 575px;
+    left: 818px;
+    top: 20px;
+    position: fixed;
+
+}
+h1{
+    font-size: 36px;
+    font-weight: 700;
+    width: 562px;
+    height: 108px;
+    left: 136px;
+    top: 83;
+    position: fixed;
+}
+
+.pp{
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+
+    top: 219px;
+    left: 136px;
+    position:fixed;
+    width: 495px;
+    height: 81px;
+}
+
+.pk{
+    font-weight: 800;
+    line-height: 32px;
+    width: 227px;
+    height: 81px;
+    top: 315px;
+    position: fixed;
+    left: 136px;
+    font-size: 20px;
+}
+
+.form {
+    grid-column: span 12;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .email-input {
+    width: 350px;
+    height: 64px;
+    border: 4px solid #000000;
+    border-radius: 8px;
+    top: 411px;
+    left: 125px;
+    position: fixed;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+
+  }
+
+  
+
+  ::placeholder{
+width: 350px;
+height: 64px;
+top: 411px;
+left: 158px;
+font-size: 20px;
+line-height: 32px;
+font-weight: 600;
+padding-left: 20px;
+  }
+
+
+
+.submit-button {
+    width: 216px;
+    height: 64px;
+    top: 411px;
+    left: 496px;
+    border-radius: 8px;
+    background-color: #282828;
+    color: white;
+    position: fixed;
+  }
+
+  .bp{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.2px;
+    width: 216px;
+    height: 64px;
+    top: 411px;
+    left: 496px;
+    position: fixed;
+    text-align: center;
+  
+  }
+
+
+
+
+footer{
+    background: #282828;
+
+    width: 1440px;
+    height: 298;
+    color: white;
+    position: fixed;
+    top: 592px;
+    font-family: Inter;
+
+}
+.fd{
+    left: 191px;
+    position: fixed;
+    top: 654px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+
+.fparent{
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.child2{
+    top: 654px; ;
+    left: 1099px;
+    position: fixed;
+    text-align: right;
+}
+
